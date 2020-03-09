@@ -33,6 +33,6 @@ o{
       <li>-CSS- Le design du site</li>
         <x>Pour utiliser CSS, on a commencé avec un programme HTML que après on a changé le style à mesure qu'on apprenaît à l'utiliser. Ces designs peuvent être plus simples, ou plus developpés, mais cela ne change pas le fait que le language CSS n'as qu'une fonction aesthétique.</x>
     </ul>
-</body>
+
   <o><a href="https://favereaucami.github.io/index/">戻る-Retour Accueil</a></o>
   <e><a href="https://favereaucami.github.io/projets/">プロジェクト-Projets</a></e>
