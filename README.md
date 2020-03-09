@@ -36,3 +36,4 @@ o{
 
   <o><a href="https://favereaucami.github.io/index/">戻る-Retour Accueil</a></o>
   <e><a href="https://favereaucami.github.io/projets/">プロジェクト-Projets</a></e>
+  <z><a href="https://favereaucami.github.io/style/>???
