@@ -25,7 +25,7 @@ o{
 </head>
 <body>
     
-    <h1> レポート、学んだこと</h1>
+   <h1> レポート、学んだこと</h1>
     <h2>-HTML et CSS-</h2>
     <ul>
       <li>-HTML- Le corps du site.</li>
