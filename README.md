@@ -10,7 +10,7 @@
 }
 body{
   border:2px solid black;
-  background-image:url(https://i.quotev.com/img/q/u/19/4/27/vh56buqttn.jpg);
+  background-color:white;
 }
 a{
   color:green;
