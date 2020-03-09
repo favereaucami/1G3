@@ -8,10 +8,8 @@
     html{
     font-family: 'Bellota', cursive;
 }
-p{
-  border:2px solid black;
-}
 body{
+  border:2px solid black;
   background-color:white;
 }
 a{
@@ -26,15 +24,15 @@ o{
     </style>
 </head>
 <body>
-    <p>
+    
     <h1> レポート、学んだこと</h1>
-    <h2>-HTML et CSS-
+    <h2>-HTML et CSS-</h2>
     <ul>
       <li>-HTML- Le corps du site.</li>
         <x>Pour utiliser HTML, on a du comprendre comment utiliser les header h et les paragraphes p. Après, on a commencé a utiliser des èléments plus compliqués-comme par exemple, l'utilisation d'images.</x>
       <li>-CSS- Le design du site</li>
         <x>Pour utiliser CSS, on a commencé avec un programme HTML que après on a changé le style à mesure qu'on apprenaît à l'utiliser. Ces designs peuvent être plus simples, ou plus developpés, mais cela ne change pas le fait que le language CSS n'as qu'une fonction aesthétique.</x>
     </ul>
-        </p>
+</body>
   <o><a href="https://favereaucami.github.io/index/">戻る-Retour Accueil</a></o>
   <e><a href="https://favereaucami.github.io/projets/">プロジェクト-Projets</a></e>
