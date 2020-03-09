@@ -4,9 +4,29 @@
   <meta name="viewport" content="width=device-width">
   <title>JS Bin</title>
   <link href="https://fonts.googleapis.com/css?family=Bellota:700&display=swap" rel="stylesheet">
+<style>
+    html{
+    font-family: 'Bellota', cursive;
+}
+p{
+  border:2px solid black;
+}
+body{
+  background-color:white;
+}
+a{
+  color:green;
+}
+x{
+  color:gray;
+}
+o{
+  margin:0px
+}
+    </style>
 </head>
 <body>
-  <p>
+    <p>
     <h1> レポート、学んだこと</h1>
     <h2>-HTML et CSS-
     <ul>
@@ -15,6 +35,6 @@
       <li>-CSS- Le design du site</li>
         <x>Pour utiliser CSS, on a commencé avec un programme HTML que après on a changé le style à mesure qu'on apprenaît à l'utiliser. Ces designs peuvent être plus simples, ou plus developpés, mais cela ne change pas le fait que le language CSS n'as qu'une fonction aesthétique.</x>
     </ul>
-  </p>
+        </p>
   <o><a href="https://favereaucami.github.io/index/">戻る-Retour Accueil</a></o>
   <e><a href="https://favereaucami.github.io/projets/">プロジェクト-Projets</a></e>
